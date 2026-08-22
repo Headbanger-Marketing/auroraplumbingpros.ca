@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://auroraplumbingpros.ca/sitemap-index.xml
