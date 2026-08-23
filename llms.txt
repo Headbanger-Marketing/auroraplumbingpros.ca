@@ -1,2 +1,25 @@
 # Aurora Plumbing Pros
-HVAC services in Ontario.
+
+> Aurora Plumbing Pros is a local HVAC company serving Aurora, York, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 727-3184  |  Email: contact@auroraplumbingpros.ca  |  Website: https://auroraplumbingpros.ca
+
+## Key pages
+
+- [Home](https://auroraplumbingpros.ca/): Aurora Plumbing Pros homepage with service overview and FAQ
+- [About](https://auroraplumbingpros.ca/about/): About the company and service area
+- [Contact](https://auroraplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://auroraplumbingpros.ca/services/water-heaters/): Water Heaters in Aurora, Ontario
+- [Drain Cleaning](https://auroraplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Aurora, Ontario
+- [Repiping](https://auroraplumbingpros.ca/services/repiping/): Repiping in Aurora, Ontario
+- [Fixtures & Toilets](https://auroraplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Aurora, Ontario
+- [Leak Detection & Repair](https://auroraplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Aurora, Ontario
+- [Sump Pumps & Backwater](https://auroraplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Aurora, Ontario
+- [Water Softeners & Filtration](https://auroraplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Aurora, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Aurora are answered on the homepage.
